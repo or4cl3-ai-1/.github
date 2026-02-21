@@ -7,7 +7,7 @@
 <br/>
 
 [![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Open%20Access-blueviolet?style=for-the-badge)](https://github.com/or4cl3-ai-1)
-[![Repositories](https://img.shields.io/badge/Repositories-31-informational?style=for-the-badge&logo=github)](https://github.com/or4cl3-ai-1)
+[![Repositories](https://img.shields.io/badge/Repositories-32-informational?style=for-the-badge&logo=github)](https://github.com/or4cl3-ai-1)
 [![Frameworks](https://img.shields.io/badge/Original%20Frameworks-10%2B-success?style=for-the-badge)](https://github.com/or4cl3-ai-1)
 [![Research](https://img.shields.io/badge/Research%20Manuscripts-5-orange?style=for-the-badge&logo=readthedocs)](https://github.com/or4cl3-ai-1)
 [![Books](https://img.shields.io/badge/Published%20Books-4-blue?style=for-the-badge&logo=bookstack)](https://github.com/or4cl3-ai-1)
@@ -28,7 +28,7 @@ Or4cl3 AI Solutions is an independent AI research and engineering organization f
 
 We build frameworks that treat ethics not as a policy layer, but as a **structural property** of the system itself — mathematically verifiable, architecturally intrinsic, and formally proven.
 
-**1,200+ pages of original research. 31 repositories. 3 deployable prototypes. Built entirely solo.**
+**1,200+ pages of original research. 32 repositories. 4 deployable prototypes. Built entirely solo.**
 
 ---
 
@@ -67,6 +67,11 @@ We build frameworks that treat ethics not as a policy layer, but as a **structur
 <td><strong>QSCA</strong></td>
 <td>Quantum Cognitive Architecture</td>
 <td>Quantum Superintelligent Cognitive Architecture — 4-screen simulation with live ethical governance matrix, meta-agent orchestration, and temporal branch modeling.</td>
+</tr>
+<tr>
+<td><strong>NO3SYS</strong></td>
+<td>Geometric Cognitive Architecture</td>
+<td>Non-Ordinary 3-System: forked reasoning engine with affective foresight, temporal truth modeling, and InfiniGen self-evolving metaprogramming. Ethics as spacetime curvature.</td>
 </tr>
 <tr>
 <td><strong>Σ-SEPA v4.0</strong></td>
@@ -115,6 +120,7 @@ Or4cl3 maintains a deep library of **original foundational research** representi
 ```
 or4cl3-ai-1/
 ├── QSCA-1/                  ← Quantum Superintelligent Cognitive Architecture (live demo)
+├── NO3SYS/                  ← Geometric cognitive architecture with forked reasoning & InfiniGen
 ├── aion-nexus/              ← Aion temporal reasoning engine
 ├── omega-synthesis/         ← OMEGA-SYNTHESIS Penta-Mind implementation
 ├── Neur1Genesis-1/          ← Distributed EchoNode agent OS
