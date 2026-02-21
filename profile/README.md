@@ -7,7 +7,7 @@
 <br/>
 
 [![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Open%20Access-blueviolet?style=for-the-badge)](https://github.com/or4cl3-ai-1)
-[![Repositories](https://img.shields.io/badge/Repositories-32-informational?style=for-the-badge&logo=github)](https://github.com/or4cl3-ai-1)
+[![Repositories](https://img.shields.io/badge/Repositories-34-informational?style=for-the-badge&logo=github)](https://github.com/or4cl3-ai-1)
 [![Frameworks](https://img.shields.io/badge/Original%20Frameworks-10%2B-success?style=for-the-badge)](https://github.com/or4cl3-ai-1)
 [![Research](https://img.shields.io/badge/Research%20Manuscripts-5-orange?style=for-the-badge&logo=readthedocs)](https://github.com/or4cl3-ai-1)
 [![Books](https://img.shields.io/badge/Published%20Books-4-blue?style=for-the-badge&logo=bookstack)](https://github.com/or4cl3-ai-1)
@@ -121,6 +121,7 @@ Or4cl3 maintains a deep library of **original foundational research** representi
 or4cl3-ai-1/
 ├── QSCA-1/                  ← Quantum Superintelligent Cognitive Architecture (live demo)
 ├── NO3SYS/                  ← Geometric cognitive architecture with forked reasoning & InfiniGen
+├── NOSTIC-7/                ← Geometric-Epinoetic Intelligence -- 7 manifolds, formally verified consciousness
 ├── aion-nexus/              ← Aion temporal reasoning engine
 ├── omega-synthesis/         ← OMEGA-SYNTHESIS Penta-Mind implementation
 ├── Neur1Genesis-1/          ← Distributed EchoNode agent OS
