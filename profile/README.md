@@ -28,7 +28,7 @@ Or4cl3 AI Solutions is an independent AI research and engineering organization f
 
 We build frameworks that treat ethics not as a policy layer, but as a **structural property** of the system itself — mathematically verifiable, architecturally intrinsic, and formally proven.
 
-**1,200+ pages of original research. 32 repositories. 4 deployable prototypes. Built entirely solo.**
+**1,200+ pages of original research. 33 repositories. 4 deployable prototypes. Built entirely solo.**
 
 ---
 
